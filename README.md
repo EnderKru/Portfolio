@@ -63,7 +63,7 @@ As a frontend team lead, I developed 3 websites for the IT Fest 2024:
 - Played for **IT MIA** (Top-5 team in Kyrgyzstan)  
 - Captain of **AIU volleyball team** (placed 4th in national league)  
 📸 ![MVD Team](images/mvd.png)  
-📸 ![College Award](images/colleg-award.png)
+📸 ![College Award](images/college-award.png)
 
 ### 🥋 Judo  
 Practiced for 7 years and won numerous awards across Russian cities.  
