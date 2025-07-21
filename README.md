@@ -62,7 +62,7 @@ As a frontend team lead, I developed 3 websites for the IT Fest 2024:
 - Represented **Samara**, Russia in youth competitions (MVP & awards)  
 - Played for **IT MIA** (Top-5 team in Kyrgyzstan)  
 - Captain of **AIU volleyball team** (placed 4th in national league)  
-📸 ![MVD Team](images/mvd.png)  
+📸 ![MVD Team](images/mvd-team.png)  
 📸 ![College Award](images/college-award.png)
 
 ### 🥋 Judo  
