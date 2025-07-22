@@ -8,10 +8,10 @@ This is my creative and professional portfolio — welcome!
 ## 💼 About Me
 
 - 🎓 Graduate in Software Development from the College under Ala-Too International University  
-- 🎨 Transitioned into UX/UI Design after working on real client projects  
+- 🎨 Transitioned into UX/UI Design after working on real projects  
 - 👔 Working as a model and actor, frequently involved in fashion shows and creative shoots in Bishkek  
 - 🧠 Passionate about psychology, storytelling, and how people think and feel  
-- 🏐 Played in Kyrgyzstan’s top volleyball league; captain of the Ala-Too International University volleyball team  
+- 🏐 Played in Kyrgyzstan’s top volleyball league; was captain of the Ala-Too International University volleyball team  
 - 🌟 Represented my hometown of Samara, Russia in youth volleyball competitions  
 - 🎯 My dream is to become a **Senior UX/UI or Product Design Team Lead** in a successful company, continue playing volleyball at a high level, and one day act in a movie
 
@@ -49,7 +49,7 @@ Created during a hackathon with my team. The platform helps students prepare for
 ---
 
 ### 4. 🖥️ IT Fest Projects  
-As a frontend team lead, I developed 3 websites for the IT Fest 2024:  
+As a frontend team lead, me and my team developed 3 websites for the IT Fest 2024 (here githubs):  
 - [It Fest Main Site](https://github.com/EnderKru/It-Fest)  
 - [Mobilograph Competition](https://github.com/EnderKru/bobby-mobilography)  
 - [KIA CyberChamp](https://github.com/manziro785/kia)
@@ -61,13 +61,13 @@ As a frontend team lead, I developed 3 websites for the IT Fest 2024:
 ### 🏐 Volleyball  
 - Represented **Samara**, Russia in youth competitions (MVP & awards)  
 - Played for **IT MIA** (Top-5 team in Kyrgyzstan)  
-- Captain of **AIU volleyball team** (placed 4th in national league)  
+- Captain of **AIU volleyball team** (sadly placed 4th)  
 📸 ![MVD Team](images/mvd-team.png)  
 📸 ![College Award](images/college-award.png)
 
 ### 🥋 Judo  
 Practiced for 7 years and won numerous awards across Russian cities.  
-Unfortunately, I had to leave my medals in Samara.
+Unfortunately, I had leave my medals in Samara and can't show you now, my apolagize
 
 ---
 
