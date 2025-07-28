@@ -60,7 +60,7 @@ As a frontend team lead, me and my team developed 3 websites for the IT Fest 202
 
 ### 🏐 Volleyball  
 - Represented **Samara**, Russia in youth competitions (MVP & awards)  
-- Played for **IT MIA** (Top-5 team in Kyrgyzstan)  
+- Played for **IT MIA** (ВВ МВД) (Top-5 team in Kyrgyzstan)  
 - Captain of **AIU volleyball team** (sadly placed 4th)  
 📸 ![MVD Team](images/mvd-team.png)  
 📸 ![College Award](images/college-award.png)
